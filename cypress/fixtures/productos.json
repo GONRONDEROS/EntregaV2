@@ -1,0 +1,13 @@
+{
+     
+    "producto1": {
+        "nombre": "Buzo Negro",
+        "precio": 23.76,
+        "cantidad": 1
+        },
+    "producto2": {
+        "nombre": "Jean Azul",
+        "precio": 11.98,
+        "cantidad": 2
+    }
+}
